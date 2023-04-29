@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "title":"Sakiz",
+        "price": 15,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUpfWQMg7Nd9FIttVbZRm1i_00zTwrUcOTHRqGhiuvCkU2MCQ18EtxN6lXO14pI-ui7c&usqp=CAU"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price":50,
+        "image":"https://www.roofmezze360.com/wp-content/uploads/2021/10/cola-fanta-sprite.jpg"
+
+    },
+    {
+        "id":3,
+        "title":"Araba",
+        "price":100000,
+        "image":"https://productimages.hepsiburada.net/s/79/1500/110000021527309.jpg"
+    
+    },
+    {
+        "id":4,
+        "title":"Buzdolabı",
+        "price":20000,
+        "image":"https://percdn.com/f/822584/cG96WmFuTXorNjQrTml4c0g4OG5hTGdQSVl5OA/p/arcelik-284630-ei-no-frost-cift-kapili-inoks-buzdolabi-25155-2.webp"
+    },
+
+    { "id":5,
+    "title":"Ayakkabı",
+    "price":15000,
+        "image":"https://ayb.akinoncdn.com/products/2023/01/23/2288017/d186d53f-c365-4b66-93d7-6d579393b008_size780x780_quality60_cropCenter.jpg"
+    },
+    
+    {
+        "id":6,
+        "title":"Bilgisayar",
+        "price":25000,
+        "image":"https://cdn.cimri.io/image/1200x1200/dizstbilgisayarfiyatlar_664523231.jpg"
+    
+    },
+    {
+        "id":7,
+        "title":"Kazak",
+        "price":1700,
+        "image":"https://static.ticimax.cloud/37264/uploads/urunresimleri/buyuk/barbour-case-fair-isle-kazak-bl92-midn-79afa-.jpg"
+    
+    },
+
+    
+    {
+        "id":8,
+        "title":"Telefon",
+        "price":35000,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-model-unselect-gallery-1-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660689596976"
+    
+    }
+    ]
